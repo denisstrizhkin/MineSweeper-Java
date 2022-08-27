@@ -1,0 +1,10 @@
+.DS_Store
+.idea
+*.log
+tmp/
+
+.project
+.settings
+target
+.classpath
+dependency-reduced-pom.xml
